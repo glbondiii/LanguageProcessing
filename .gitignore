@@ -1,4 +1,5 @@
 src/credentials.json
 src/token.json
 src/secret.py
+src/__pycache__
 .venv
