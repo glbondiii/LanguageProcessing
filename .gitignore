@@ -1,3 +1,4 @@
-credentials.json
-token.json
-secret.py
+src/credentials.json
+src/token.json
+src/secret.py
+.venv
